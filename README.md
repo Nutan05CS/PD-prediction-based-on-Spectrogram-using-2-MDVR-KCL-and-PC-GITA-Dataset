@@ -7,11 +7,11 @@ Dataset Information
 MDVR-KCL Dataset
 •	Recording type: Read text
 •	Class distribution: Unbalanced
-•	Number of subjects: [X] PD patients, [Y] healthy controls
+
 PC-GITA Dataset
 •	Recording type: Read text
 •	Class distribution: Balanced
-•	Number of subjects: [X] PD patients, [X] healthy controls
+•	Number of subjects: [50] PD patients, [50] healthy controls
 Code Organization
 The repository is organized into two main folders:
 1. Tabular_Data_Analysis
